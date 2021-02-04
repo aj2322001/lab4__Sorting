@@ -1,4 +1,4 @@
-package com.company;
+package com.sorting_algo;
 
 public class BubbleSort {
     void bubbleSort(int[] myArr) {
